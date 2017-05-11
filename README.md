@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/tflearn/tflearn.svg?branch=master)](https://travis-ci.org/tflearn/tflearn)
 [![PyPI version](https://badge.fury.io/py/tflearn.svg)](https://badge.fury.io/py/tflearn)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -112,3 +113,7 @@ For more info: *[Contribute to TFLearn](http://tflearn.org/contributions)*.
 ## License
 
 MIT License
+=======
+# tflearn
+Learning more about tflearn and running through code examples
+>>>>>>> 2eb037de92e8961c95533045441786937644676e
